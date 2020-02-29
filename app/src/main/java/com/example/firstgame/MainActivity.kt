@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
 
         clickmebut.setOnClickListener {
             d("marcus", "button is pressed fagot")
+            d("marcus", "button not pressed hahahahahahaa")
         }
     }
 }
