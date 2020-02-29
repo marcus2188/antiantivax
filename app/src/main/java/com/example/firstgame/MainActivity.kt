@@ -1,5 +1,6 @@
 package com.example.firstgame
 
+import android.content.Intent
 import android.os.Bundle
 import android.util.Log.d
 import com.google.android.material.snackbar.Snackbar
@@ -22,6 +23,7 @@ class MainActivity : AppCompatActivity() {
             d("marcus", "button not pressed hahahahahahaa")
             d("marcus", "dgrdgregegregr")
             d("marcus", "hahayousuck")
+            startActivity(Intent(this, TravelActivity::class.java))
         }
     }
 }
