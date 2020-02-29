@@ -22,7 +22,7 @@
         android:id="@+id/clickmebut"
         android:layout_width="114dp"
         android:layout_height="88dp"
-        android:text="Click me"
+        android:text="Go to Travel"
         tools:layout_editor_absoluteX="104dp"
         tools:layout_editor_absoluteY="147dp" />
 
