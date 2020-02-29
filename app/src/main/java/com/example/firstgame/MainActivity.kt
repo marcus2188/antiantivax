@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
             d("marcus", "button is pressed fagot")
             d("marcus", "button not pressed hahahahahahaa")
             d("marcus", "dgrdgregegregr")
+            d("marcus", "hahayousuck")
         }
     }
 }
